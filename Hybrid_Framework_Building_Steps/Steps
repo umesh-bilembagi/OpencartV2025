@@ -1,0 +1,66 @@
+  Development of Hybrid Driven Framework
+  
+  1. TestCase: Account Registration
+  	1.1- Create BasePage class under pageObjects package, which include only constructor. this will be invoked by every page object class constructor(Re-Usability).
+  	1.2- Create page object classes for HomePage, Registration Page under pageObjects package.(these classes extends from BasePage)
+  	1.3- Create AccountRegistrationTest under "testcases"
+  	1.4- Create BaseTest under testBase or testCases package and copy re-usable methods.
+  	1.5- Create re-usable methods to generate random numbers and strings in BaseClass.
+  	
+  2. Adding logs to test case(log4j2)
+  	2.1- Add log4j2.xml file under src/test/resources.
+  	2.2- update BaseTest
+  	2.3- Add log statements to AccountRegistrationTest.
+  	2.4- Add related dependencies in pom.xml	  
+  	
+  	What is logging
+  		Record all the events in the form of text.
+  		Record every action whatever we have done in the application
+  		
+  		Log Levels - All<Trace<Debug<Info<Warn<Error<Fatel<Off
+  						when we set Log level as "All" all types logs are genarated.
+  						We can Off the logs using "Off" in log4j2.xml file
+  		
+  		Appenders - Where to generate logs(Console or File)
+  		Loggers - what type of logs generate(All<Trace<Debug<Info<Warn<Error<Fatel<Off)
+  		
+  3. Run Tests on Desired Browsers/Cross Browsers(same test execution in multiple browser serially or sequencially)/Parallel browsers(same test execution in multiple browsers parallelly)
+  	3.1- Create testng.xml file to Run Test Cases and Parameterize browser name and OS to BaseTest setUp() method
+  	3.2- Update BaseTest---> setUp() method, launch browser based conditions.
+  	3.3- Maintain seperate xml file to run tests multiple browsers parallelly.
+  	
+  4. Read common values from config.properties file.
+  	4.1- Add config.properties file undrt src/test/resources.
+  	4.2- Update BaseTest ---> setUp() method, add scripts to load config.properties file
+  	4.3- Replace hard coded values in Test Cases like urls, username, password etc..
+  	
+  5. Login TestCase
+  	5.1- Create and update page object classes--->LoginPage, MyAccountPage (new classes)
+  	5.2- Update HomePage class by adding login link element.
+  	5.3- Create LoginTest
+  	5.4- Add entry in the testng.xml file(master.xml file)
+  	
+  6. Data Driven LoginTest case
+  	6.1- Prepare test data in Excel, place the Excel file inside the testData folder.
+  	6.2- Create ExcelUtility class under utilities package
+  	6.3- Update Page Object class MyAccountPage, add logout link element.
+  	6.4- Create DataProviders class in utilities package to maintain data providers for data driven tests.
+  	6.5- Create LoginDataDrivenTest under testCases package.
+  	6.6- Add entry in testng.xml file with new testcase created.
+  	
+  7. Grouping Tests
+  	7.1- Add all test cases into specific group(sanity, regression, smoke, master etc).
+  	7.2- Also add BaseTest methods setUp() and tearDown() to all groups.
+  	7.3- Create seperate TestNg xml file(grouping.xml) to run groups and include groups which we want to execute.
+  	
+  8. Add Extent Reports to Project
+  	8.1- Create ExtentReportUtility utility class under utilities package.
+  	8.2- Add captureScreen() method in BaseTest
+  	8.3- Add ExtentReportUtility(Listener class) entry in the testng.xml file
+  	8.4- Make sure WebDriver is static in BaseTest class, we refer same driver instance in ExtentReportUtility class
+  	
+  9. Run Failed Tests
+  	9.1- test-output-testng-failed.xml
+  	
+  10. Run Tests on Selenium Grid
+  

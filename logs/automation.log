@@ -1,0 +1,342 @@
+16:31:03.184 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:31:03.189 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:31:03.190 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+16:31:03.191 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:31:03.191 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:31:03.191 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:31:03.191 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:31:03.204 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\AppData\Local\Temp\testng-eclipse-169292734\testng-customsuite.xml
+
+16:31:03.222 [main] INFO  #logger{36} - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+16:31:03.506 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.reporters.jq.Main@307765b4: 113 ms
+16:31:03.529 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.reporters.FailedReporter@11389053: 23 ms
+16:31:03.553 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.reporters.XMLReporter@5398edd0: 24 ms
+16:31:03.584 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5aabbb29: 30 ms
+16:31:03.602 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@724bade8: 17 ms
+16:31:03.602 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.internal.ExitCodeListener@16fb356: 0 ms
+16:31:34.577 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+16:39:19.754 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\grouping.xml
+
+16:59:27.322 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\grouping.xml
+
+17:22:59.711 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\grouping.xml
+
+17:23:04.345 [main] INFO  #logger{36} - **** Started TC002_LoginTest.... ****
+17:23:46.612 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+17:23:51.518 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+17:24:02.994 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+17:24:14.070 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+17:24:25.232 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+17:24:36.413 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+17:31:45.710 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+17:31:49.344 [main] INFO  #logger{36} - **** Starting TC001_AccountRegistrationTest ****
+17:31:49.545 [main] INFO  #logger{36} -  Clicked MyAccount link 
+17:31:49.892 [main] INFO  #logger{36} -  Clicked Register link 
+17:31:49.913 [main] INFO  #logger{36} -  Providing Customer Details... 
+17:31:50.892 [main] INFO  #logger{36} -  Validating Expected Massage 
+17:32:00.958 [main] ERROR #logger{36} - Test was Failed...
+17:32:03.449 [main] INFO  #logger{36} - **** Started TC002_LoginTest.... ****
+17:32:18.103 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+17:32:28.859 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+17:32:39.554 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+17:32:50.358 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+17:33:01.212 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+17:34:44.887 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+17:34:48.819 [main] INFO  #logger{36} - **** Starting TC001_AccountRegistrationTest ****
+17:34:48.910 [main] INFO  #logger{36} -  Clicked MyAccount link 
+17:34:49.357 [main] INFO  #logger{36} -  Clicked Register link 
+17:34:49.358 [main] INFO  #logger{36} -  Providing Customer Details... 
+17:34:50.534 [main] INFO  #logger{36} -  Validating Expected Massage 
+17:34:50.560 [main] INFO  #logger{36} - **** Finished TC001_AccountRegistrationTest *****
+17:34:54.624 [main] INFO  #logger{36} - **** Started TC002_LoginTest.... ****
+17:35:09.318 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+17:35:20.044 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+17:35:30.891 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+17:35:41.719 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+17:35:52.519 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+17:37:38.500 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+17:37:41.313 [main] INFO  #logger{36} - **** Starting TC001_AccountRegistrationTest ****
+17:37:41.423 [main] INFO  #logger{36} -  Clicked MyAccount link 
+17:37:41.856 [main] INFO  #logger{36} -  Clicked Register link 
+17:37:41.857 [main] INFO  #logger{36} -  Providing Customer Details... 
+17:37:43.069 [main] INFO  #logger{36} -  Validating Expected Massage 
+17:37:43.098 [main] INFO  #logger{36} - **** Finished TC001_AccountRegistrationTest *****
+17:37:45.589 [main] INFO  #logger{36} - **** Started TC002_LoginTest.... ****
+17:38:00.433 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+17:38:11.125 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+17:38:21.932 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+17:38:33.113 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+17:38:45.594 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+17:40:43.920 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+17:40:46.655 [main] INFO  #logger{36} - **** Starting TC001_AccountRegistrationTest ****
+17:40:46.811 [main] INFO  #logger{36} -  Clicked MyAccount link 
+17:40:47.161 [main] INFO  #logger{36} -  Clicked Register link 
+17:40:47.163 [main] INFO  #logger{36} -  Providing Customer Details... 
+17:40:48.485 [main] INFO  #logger{36} -  Validating Expected Massage 
+17:40:48.518 [main] INFO  #logger{36} - **** Finished TC001_AccountRegistrationTest *****
+17:41:58.583 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:41:58.587 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+17:41:58.588 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:41:58.588 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:41:58.588 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:41:58.589 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:41:58.589 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:41:58.589 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:41:58.594 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+17:41:58.602 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+17:41:58.603 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:41:58.603 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:41:58.604 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:41:58.604 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:41:58.604 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:41:58.604 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:41:58.605 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:41:58.605 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:41:58.606 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:41:58.606 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:41:58.607 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:41:58.607 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:41:58.607 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:41:58.607 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:41:58.608 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:41:58.608 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:41:58.609 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:41:58.609 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:41:58.609 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:41:58.609 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:41:58.614 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\AppData\Local\Temp\testng-eclipse-451981887\testng-customsuite.xml
+
+17:41:58.626 [main] INFO  #logger{36} - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+17:41:58.817 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.reporters.jq.Main@552518c3: 76 ms
+17:41:58.832 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.reporters.FailedReporter@7eb01b12: 15 ms
+17:41:58.846 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.reporters.XMLReporter@67ef029: 14 ms
+17:41:58.858 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@182f1e9a: 12 ms
+17:41:58.868 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6db66836: 10 ms
+17:41:58.868 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.internal.ExitCodeListener@db44aa2: 0 ms
+17:42:12.922 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+17:42:15.612 [main] INFO  #logger{36} - **** Starting TC001_AccountRegistrationTest ****
+17:42:15.743 [main] INFO  #logger{36} -  Clicked MyAccount link 
+17:42:16.092 [main] INFO  #logger{36} -  Clicked Register link 
+17:42:16.096 [main] INFO  #logger{36} -  Providing Customer Details... 
+17:42:17.458 [main] INFO  #logger{36} -  Validating Expected Massage 
+17:42:17.502 [main] INFO  #logger{36} - **** Finished TC001_AccountRegistrationTest *****
+17:43:44.784 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+17:43:47.452 [main] INFO  #logger{36} - **** Starting TC001_AccountRegistrationTest ****
+17:43:47.577 [main] INFO  #logger{36} -  Clicked MyAccount link 
+17:43:47.978 [main] INFO  #logger{36} -  Clicked Register link 
+17:43:47.980 [main] INFO  #logger{36} -  Providing Customer Details... 
+17:43:49.145 [main] INFO  #logger{36} -  Validating Expected Massage 
+17:43:54.217 [main] INFO  #logger{36} - **** Finished TC001_AccountRegistrationTest *****
+17:48:33.027 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+17:48:35.554 [main] INFO  #logger{36} - **** Starting TC001_AccountRegistrationTest ****
+17:48:35.839 [main] INFO  #logger{36} -  Clicked MyAccount link 
+17:48:36.192 [main] INFO  #logger{36} -  Clicked Register link 
+17:48:36.194 [main] INFO  #logger{36} -  Providing Customer Details... 
+17:48:37.505 [main] INFO  #logger{36} -  Validating Expected Massage 
+17:48:42.542 [main] INFO  #logger{36} - **** Finished TC001_AccountRegistrationTest *****
+17:48:45.875 [main] INFO  #logger{36} - **** Started TC002_LoginTest.... ****
+17:53:23.663 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+17:53:26.450 [main] INFO  #logger{36} - **** Starting TC001_AccountRegistrationTest ****
+17:53:26.566 [main] INFO  #logger{36} -  Clicked MyAccount link 
+17:53:26.901 [main] INFO  #logger{36} -  Clicked Register link 
+17:53:26.902 [main] INFO  #logger{36} -  Providing Customer Details... 
+17:53:28.136 [main] INFO  #logger{36} -  Validating Expected Massage 
+17:53:33.204 [main] INFO  #logger{36} - **** Finished TC001_AccountRegistrationTest *****
+17:53:35.714 [main] INFO  #logger{36} - **** Started TC002_LoginTest.... ****
+17:56:22.779 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+17:56:25.794 [main] INFO  #logger{36} - **** Starting TC001_AccountRegistrationTest ****
+17:56:25.913 [main] INFO  #logger{36} -  Clicked MyAccount link 
+17:56:26.542 [main] INFO  #logger{36} -  Clicked Register link 
+17:56:26.545 [main] INFO  #logger{36} -  Providing Customer Details... 
+17:56:27.489 [main] INFO  #logger{36} -  Validating Expected Massage 
+17:56:37.583 [main] ERROR #logger{36} - Test was Failed...
+17:56:40.182 [main] INFO  #logger{36} - **** Started TC002_LoginTest.... ****
+17:56:41.387 [main] INFO  #logger{36} - **** Finished TC_002_LoginTest *****
+17:56:55.524 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+17:56:58.424 [main] INFO  #logger{36} - **** Starting TC001_AccountRegistrationTest ****
+17:56:58.535 [main] INFO  #logger{36} -  Clicked MyAccount link 
+17:56:59.019 [main] INFO  #logger{36} -  Clicked Register link 
+17:56:59.021 [main] INFO  #logger{36} -  Providing Customer Details... 
+17:57:00.157 [main] INFO  #logger{36} -  Validating Expected Massage 
+17:57:05.198 [main] INFO  #logger{36} - **** Finished TC001_AccountRegistrationTest *****
+17:57:07.624 [main] INFO  #logger{36} - **** Started TC002_LoginTest.... ****
+17:57:09.031 [main] INFO  #logger{36} - **** Finished TC_002_LoginTest *****
+17:58:10.891 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+17:58:13.735 [main] INFO  #logger{36} - **** Starting TC001_AccountRegistrationTest ****
+17:58:13.865 [main] INFO  #logger{36} -  Clicked MyAccount link 
+17:58:14.265 [main] INFO  #logger{36} -  Clicked Register link 
+17:58:14.269 [main] INFO  #logger{36} -  Providing Customer Details... 
+17:58:15.492 [main] INFO  #logger{36} -  Validating Expected Massage 
+17:58:20.523 [main] INFO  #logger{36} - **** Finished TC001_AccountRegistrationTest *****
+17:58:23.324 [main] INFO  #logger{36} - **** Started TC002_LoginTest.... ****
+17:58:24.606 [main] INFO  #logger{36} - **** Finished TC_002_LoginTest *****
+17:58:27.822 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+17:58:29.223 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+17:58:29.229 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+17:58:40.358 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+17:58:40.362 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+17:58:51.380 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+17:58:51.392 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+17:59:02.547 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+17:59:02.553 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+17:59:13.323 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+18:01:38.677 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+18:01:41.223 [main] INFO  #logger{36} - **** Starting TC001_AccountRegistrationTest ****
+18:01:41.443 [main] INFO  #logger{36} -  Clicked MyAccount link 
+18:01:41.810 [main] INFO  #logger{36} -  Clicked Register link 
+18:01:41.812 [main] INFO  #logger{36} -  Providing Customer Details... 
+18:01:43.037 [main] INFO  #logger{36} -  Validating Expected Massage 
+18:01:48.074 [main] INFO  #logger{36} - **** Finished TC001_AccountRegistrationTest *****
+18:01:50.389 [main] INFO  #logger{36} - **** Started TC002_LoginTest.... ****
+18:01:51.588 [main] INFO  #logger{36} - **** Finished TC_002_LoginTest *****
+18:01:54.734 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+18:01:59.358 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+18:01:59.364 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+18:02:03.727 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+18:02:03.731 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+18:02:08.262 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+18:02:08.267 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+18:02:13.377 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+18:02:13.381 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+18:02:17.949 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+18:45:12.414 [main] INFO  #logger{36} - **** Starting TC001_AccountRegistrationTest ****
+18:45:12.702 [main] INFO  #logger{36} -  Clicked MyAccount link 
+18:45:13.054 [main] INFO  #logger{36} -  Clicked Register link 
+18:45:13.074 [main] INFO  #logger{36} -  Providing Customer Details... 
+18:45:14.263 [main] INFO  #logger{36} -  Validating Expected Massage 
+18:45:19.306 [main] INFO  #logger{36} - **** Finished TC001_AccountRegistrationTest *****
+18:45:21.707 [main] INFO  #logger{36} - **** Started TC002_LoginTest.... ****
+18:45:23.076 [main] INFO  #logger{36} - **** Finished TC_002_LoginTest *****
+18:45:26.091 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+18:45:30.646 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+18:45:30.648 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+18:45:35.179 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+18:45:35.183 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+18:45:39.781 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+18:45:39.781 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+18:45:44.445 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+18:45:44.448 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+18:45:48.997 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+23:06:23.283 [main] INFO  #logger{36} - **** Starting TC001_AccountRegistrationTest ****
+23:06:23.742 [main] INFO  #logger{36} -  Clicked MyAccount link 
+23:06:24.718 [main] INFO  #logger{36} -  Clicked Register link 
+23:06:24.723 [main] INFO  #logger{36} -  Providing Customer Details... 
+23:06:26.680 [main] INFO  #logger{36} -  Validating Expected Massage 
+23:06:31.793 [main] INFO  #logger{36} - **** Finished TC001_AccountRegistrationTest *****
+23:06:34.824 [main] INFO  #logger{36} - **** Started TC002_LoginTest.... ****
+23:06:36.589 [main] INFO  #logger{36} - **** Finished TC_002_LoginTest *****
+23:06:40.587 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+23:06:45.814 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+23:06:45.814 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+23:06:50.803 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+23:06:50.805 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+23:06:56.151 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+23:06:56.151 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+23:07:01.854 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+23:07:01.854 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+23:07:07.308 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+23:30:38.199 [main] INFO  #logger{36} - **** Starting TC001_AccountRegistrationTest ****
+23:30:38.689 [main] INFO  #logger{36} -  Clicked MyAccount link 
+23:30:39.433 [main] INFO  #logger{36} -  Clicked Register link 
+23:30:39.437 [main] INFO  #logger{36} -  Providing Customer Details... 
+23:30:41.174 [main] INFO  #logger{36} -  Validating Expected Massage 
+23:30:46.271 [main] INFO  #logger{36} - **** Finished TC001_AccountRegistrationTest *****
+23:30:48.838 [main] INFO  #logger{36} - **** Started TC002_LoginTest.... ****
+23:30:51.434 [main] INFO  #logger{36} - **** Finished TC_002_LoginTest *****
+23:30:56.077 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+23:31:01.520 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+23:31:01.523 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+23:31:07.006 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+23:31:07.010 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+23:31:12.446 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+23:31:12.446 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+23:31:17.714 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+23:31:17.714 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+23:31:23.181 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+00:25:58.800 [main] INFO  #logger{36} - **** Starting TC001_AccountRegistrationTest ****
+00:25:59.240 [main] INFO  #logger{36} -  Clicked MyAccount link 
+00:25:59.883 [main] INFO  #logger{36} -  Clicked Register link 
+00:25:59.887 [main] INFO  #logger{36} -  Providing Customer Details... 
+00:26:01.477 [main] INFO  #logger{36} -  Validating Expected Massage 
+00:26:06.573 [main] INFO  #logger{36} - **** Finished TC001_AccountRegistrationTest *****
+00:26:09.576 [main] INFO  #logger{36} - **** Started TC002_LoginTest.... ****
+00:26:11.845 [main] INFO  #logger{36} - **** Finished TC_002_LoginTest *****
+00:26:15.949 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+00:26:20.973 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+00:26:20.975 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+00:26:26.117 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+00:26:26.119 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+00:26:31.603 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+00:26:31.607 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+00:26:36.807 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+00:26:36.813 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+00:26:42.137 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+00:28:18.442 [main] INFO  #logger{36} - **** Starting TC001_AccountRegistrationTest ****
+00:28:18.965 [main] INFO  #logger{36} -  Clicked MyAccount link 
+00:28:19.456 [main] INFO  #logger{36} -  Clicked Register link 
+00:28:19.462 [main] INFO  #logger{36} -  Providing Customer Details... 
+00:28:21.314 [main] INFO  #logger{36} -  Validating Expected Massage 
+00:28:26.409 [main] INFO  #logger{36} - **** Finished TC001_AccountRegistrationTest *****
+00:28:29.095 [main] INFO  #logger{36} - **** Started TC002_LoginTest.... ****
+00:28:31.360 [main] INFO  #logger{36} - **** Finished TC_002_LoginTest *****
+00:28:36.295 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+00:28:41.498 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+00:28:41.502 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+00:28:46.815 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+00:28:46.820 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+00:28:52.170 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+00:28:52.170 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+00:28:57.723 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+00:28:57.723 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+00:29:03.014 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+01:01:30.911 [main] INFO  #logger{36} - **** Starting TC001_AccountRegistrationTest ****
+01:01:31.482 [main] INFO  #logger{36} -  Clicked MyAccount link 
+01:01:32.082 [main] INFO  #logger{36} -  Clicked Register link 
+01:01:32.086 [main] INFO  #logger{36} -  Providing Customer Details... 
+01:01:33.943 [main] INFO  #logger{36} -  Validating Expected Massage 
+01:01:39.017 [main] INFO  #logger{36} - **** Finished TC001_AccountRegistrationTest *****
+01:01:41.572 [main] INFO  #logger{36} - **** Started TC002_LoginTest.... ****
+01:01:43.704 [main] INFO  #logger{36} - **** Finished TC_002_LoginTest *****
+01:01:48.331 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+01:01:53.516 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+01:01:53.518 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+01:01:58.716 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+01:01:58.719 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+01:02:04.269 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+01:02:04.274 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+01:02:09.491 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+01:02:09.496 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+01:02:14.912 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
