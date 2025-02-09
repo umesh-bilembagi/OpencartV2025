@@ -1,0 +1,653 @@
+19:51:31.995 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+19:51:31.998 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+19:51:32.000 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:51:32.000 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:51:32.000 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:51:32.001 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:51:32.001 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:51:32.008 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:51:32.013 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+19:51:32.021 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+19:51:32.023 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:51:32.023 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:51:32.023 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:51:32.024 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:51:32.024 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:51:32.024 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:51:32.026 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:51:32.026 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:51:32.027 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:51:32.027 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:51:32.029 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:51:32.029 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:51:32.029 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:51:32.029 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:51:32.030 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:51:32.031 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:51:32.032 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:51:32.033 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:51:32.033 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:51:32.033 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:51:32.043 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\AppData\Local\Temp\testng-eclipse--179999164\testng-customsuite.xml
+
+19:51:32.061 [main] INFO  #logger{36} - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+19:51:32.309 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.reporters.jq.Main@24f360b2: 122 ms
+19:51:32.335 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.reporters.FailedReporter@16423501: 26 ms
+19:51:32.349 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.reporters.XMLReporter@6691490c: 14 ms
+19:51:32.378 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5fe8b721: 28 ms
+19:51:32.385 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7555b920: 7 ms
+19:51:32.385 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4152d38d: 0 ms
+20:00:20.477 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+20:00:23.289 [main] INFO  #logger{36} - **** Starting TC001_AccountRegistrationTest ****
+20:00:23.615 [main] INFO  #logger{36} -  Clicked MyAccount link 
+20:00:24.302 [main] INFO  #logger{36} -  Clicked Register link 
+20:00:24.307 [main] INFO  #logger{36} -  Providing Customer Details... 
+20:00:25.141 [main] INFO  #logger{36} -  Validating Expected Massage 
+20:00:25.985 [main] INFO  #logger{36} - **** Finished TC001_AccountRegistrationTest *****
+20:00:28.427 [main] INFO  #logger{36} - **** Started TC002_LoginTest.... ****
+20:29:28.657 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+20:29:31.574 [main] INFO  #logger{36} - **** Starting TC001_AccountRegistrationTest ****
+20:29:31.942 [main] INFO  #logger{36} -  Clicked MyAccount link 
+20:29:32.602 [main] INFO  #logger{36} -  Clicked Register link 
+20:29:32.606 [main] INFO  #logger{36} -  Providing Customer Details... 
+20:29:33.516 [main] INFO  #logger{36} -  Validating Expected Massage 
+20:29:34.326 [main] INFO  #logger{36} - **** Finished TC001_AccountRegistrationTest *****
+20:29:36.757 [main] INFO  #logger{36} - **** Started TC002_LoginTest.... ****
+20:29:38.941 [main] INFO  #logger{36} - **** Finished TC_002_LoginTest *****
+20:30:23.325 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+20:30:25.898 [main] INFO  #logger{36} - **** Started TC002_LoginTest.... ****
+20:30:28.133 [main] INFO  #logger{36} - **** Finished TC_002_LoginTest *****
+01:23:22.863 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+01:23:37.194 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+01:23:38.389 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+01:23:39.216 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+01:23:40.065 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+01:23:40.822 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+01:25:53.620 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:25:53.623 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+01:25:53.625 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:25:53.625 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:25:53.625 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:25:53.625 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:25:53.626 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:25:53.626 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:25:53.632 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+01:25:53.642 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+01:25:53.644 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:25:53.644 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:25:53.646 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:25:53.646 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:25:53.647 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:25:53.647 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:25:53.649 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:25:53.649 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:25:53.650 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:25:53.650 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:25:53.654 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:25:53.654 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:25:53.654 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:25:53.654 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:25:53.655 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:25:53.656 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+01:25:53.657 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:25:53.657 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:25:53.657 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:25:53.657 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:25:53.664 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\AppData\Local\Temp\testng-eclipse-1154325722\testng-customsuite.xml
+
+01:25:53.680 [main] INFO  #logger{36} - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+01:25:54.968 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.reporters.jq.Main@280e8a1a: 89 ms
+01:25:54.986 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.reporters.FailedReporter@7de843ef: 18 ms
+01:25:55.000 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.reporters.XMLReporter@418c020b: 13 ms
+01:25:55.018 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1ffcf674: 18 ms
+01:25:55.034 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3f93e4a8: 15 ms
+01:25:55.035 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.internal.ExitCodeListener@12b5454f: 1 ms
+01:27:38.436 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:27:38.441 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:27:38.442 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:27:38.442 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:27:38.443 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:27:38.443 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:27:38.443 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:27:38.443 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:27:38.450 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+01:27:38.458 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+01:27:38.460 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+01:27:38.460 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:27:38.460 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:27:38.460 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:27:38.461 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:27:38.461 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:27:38.462 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:27:38.463 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+01:27:38.463 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:27:38.463 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:27:38.464 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:27:38.465 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:27:38.465 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:27:38.465 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:27:38.466 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:27:38.466 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:27:38.468 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:27:38.468 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:27:38.468 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:27:38.469 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:27:38.478 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\AppData\Local\Temp\testng-eclipse--110558451\testng-customsuite.xml
+
+01:27:38.499 [main] INFO  #logger{36} - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+01:27:39.744 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.reporters.jq.Main@7495699f: 78 ms
+01:27:39.761 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.reporters.FailedReporter@69e49a81: 17 ms
+01:27:39.775 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.reporters.XMLReporter@34cf294c: 14 ms
+01:27:39.783 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2e2f720: 8 ms
+01:27:39.792 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1431267b: 9 ms
+01:27:39.793 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.internal.ExitCodeListener@342726f1: 1 ms
+01:28:15.872 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+01:28:20.114 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+01:28:21.043 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+01:28:21.663 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+01:28:22.210 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+01:28:22.912 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+01:28:46.789 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+01:28:50.852 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+01:28:51.761 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+01:28:52.441 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+01:28:53.177 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+01:28:53.807 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+01:29:45.400 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+01:29:49.506 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+01:29:50.482 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+01:29:51.239 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+01:29:51.901 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+01:29:52.520 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+01:30:26.161 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:30:26.165 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:30:26.166 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:30:26.166 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:30:26.167 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:30:26.167 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:30:26.168 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:30:26.168 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:30:26.175 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+01:30:26.183 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+01:30:26.184 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:30:26.184 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:30:26.185 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:30:26.185 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:30:26.186 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:30:26.186 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:30:26.188 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:30:26.188 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:30:26.188 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:30:26.188 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:30:26.190 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:30:26.190 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:30:26.191 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:30:26.191 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:30:26.192 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+01:30:26.193 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:30:26.194 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:30:26.195 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:30:26.195 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:30:26.195 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:30:26.200 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\AppData\Local\Temp\testng-eclipse--1352699755\testng-customsuite.xml
+
+01:30:26.215 [main] INFO  #logger{36} - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+01:30:27.574 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.reporters.jq.Main@7495699f: 99 ms
+01:30:27.595 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.reporters.FailedReporter@69e49a81: 21 ms
+01:30:27.611 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.reporters.XMLReporter@34cf294c: 16 ms
+01:30:27.625 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2e2f720: 14 ms
+01:30:27.634 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@342726f1: 9 ms
+01:30:27.634 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.internal.ExitCodeListener@c808207: 0 ms
+01:31:05.894 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+01:31:08.673 [main] INFO  #logger{36} - **** Started TC002_LoginTest.... ****
+01:31:11.235 [main] INFO  #logger{36} - **** Finished TC_002_LoginTest *****
+01:31:15.540 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+01:31:16.456 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+01:31:17.026 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+01:31:17.617 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+01:31:18.188 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+11:52:30.154 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+11:53:40.059 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+11:53:42.673 [main] INFO  #logger{36} - **** Started TC002_LoginTest.... ****
+11:53:44.363 [main] INFO  #logger{36} - **** Finished TC_002_LoginTest *****
+11:53:47.200 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+11:53:47.879 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+11:53:48.457 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+11:53:49.051 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+11:53:49.552 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+11:57:54.675 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+11:57:57.665 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+11:57:58.343 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+11:57:58.885 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+11:57:59.466 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+11:57:59.924 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+12:02:56.223 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:02:56.228 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+12:02:56.230 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:02:56.231 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:02:56.231 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:02:56.231 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:02:56.232 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:02:56.232 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:02:56.236 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+12:02:56.244 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+12:02:56.245 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:02:56.245 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:02:56.245 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:02:56.246 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:02:56.246 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:02:56.246 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:02:56.247 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:02:56.247 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:02:56.247 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:02:56.247 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:02:56.248 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:02:56.248 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:02:56.248 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:02:56.248 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:02:56.249 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:02:56.249 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:02:56.251 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:02:56.251 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:02:56.251 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:02:56.251 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:02:56.258 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\AppData\Local\Temp\testng-eclipse-776445571\testng-customsuite.xml
+
+12:02:56.269 [main] INFO  #logger{36} - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+12:02:57.155 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.reporters.jq.Main@54db056b: 46 ms
+12:02:57.165 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.reporters.FailedReporter@69d23296: 10 ms
+12:02:57.175 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.reporters.XMLReporter@3fd9e827: 10 ms
+12:02:57.180 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3d64c581: 5 ms
+12:02:57.188 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6e6d4780: 7 ms
+12:02:57.188 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.internal.ExitCodeListener@650ae78c: 0 ms
+12:06:02.438 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+12:06:05.627 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+12:06:06.321 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+12:06:06.931 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+12:06:07.585 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+12:06:08.168 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+12:09:59.688 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+12:10:03.835 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+12:10:09.566 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+12:10:15.181 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+12:10:20.834 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+12:10:26.480 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+12:14:40.134 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+12:14:43.090 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+12:14:48.817 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+12:14:54.528 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+12:15:00.225 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+12:15:05.812 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+13:31:27.053 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+13:31:35.474 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+13:31:41.392 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+13:31:47.227 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+13:31:52.955 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+13:31:58.599 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+13:39:50.529 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+13:39:53.618 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+13:39:59.437 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+13:40:05.165 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+13:40:10.784 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+13:40:16.377 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+13:46:23.120 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:46:23.123 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:46:23.125 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:46:23.125 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:46:23.125 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:46:23.125 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:46:23.126 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:46:23.126 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:46:23.131 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+13:46:23.139 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+13:46:23.141 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:46:23.141 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:46:23.141 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:46:23.141 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:46:23.142 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:46:23.142 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:46:23.143 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:46:23.143 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:46:23.143 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:46:23.143 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:46:23.145 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:46:23.145 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:46:23.145 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:46:23.145 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:46:23.146 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:46:23.146 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:46:23.147 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:46:23.147 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:46:23.147 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:46:23.148 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:46:23.153 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\AppData\Local\Temp\testng-eclipse--601820820\testng-customsuite.xml
+
+13:46:23.167 [main] INFO  #logger{36} - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+13:46:24.055 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.reporters.jq.Main@7495699f: 43 ms
+13:46:24.064 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.reporters.FailedReporter@69e49a81: 9 ms
+13:46:24.074 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.reporters.XMLReporter@34cf294c: 10 ms
+13:46:24.079 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2e2f720: 5 ms
+13:46:24.084 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1431267b: 5 ms
+13:46:24.084 [main] INFO  #logger{36} - [TestNG] Time taken by org.testng.internal.ExitCodeListener@342726f1: 0 ms
+14:06:52.262 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+14:06:56.943 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+14:07:05.567 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+14:07:05.574 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+14:07:21.950 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+14:07:21.974 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+14:07:38.444 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+14:07:38.444 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+14:07:54.771 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+14:07:54.778 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+14:10:34.075 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+14:10:38.321 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+14:10:46.574 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+14:10:46.590 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+14:11:02.920 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+14:11:02.931 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+14:11:19.410 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+14:11:19.414 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+14:11:35.812 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+14:11:35.815 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+14:11:43.840 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+14:20:14.397 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+14:20:18.835 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+14:20:27.148 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+14:20:27.159 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+14:20:43.596 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+14:20:43.607 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+14:21:00.096 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+14:21:00.119 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+14:21:16.472 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+14:21:16.482 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+14:26:24.362 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+14:26:28.731 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+14:26:36.316 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+14:26:36.323 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+14:26:48.591 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+14:27:00.821 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+14:27:13.090 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+14:34:22.697 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+14:34:28.807 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+14:34:36.412 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+14:34:36.420 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+14:34:48.588 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+14:35:00.752 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+14:35:24.899 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+14:35:30.405 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+14:35:32.354 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+14:35:32.367 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+14:35:42.579 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+14:35:52.795 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+14:36:03.004 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+14:37:03.406 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+14:37:07.701 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+14:37:10.712 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+14:37:10.728 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+14:37:21.961 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+14:37:21.979 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+14:37:33.312 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+14:37:33.312 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+14:37:44.895 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+14:37:44.895 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+14:38:59.451 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+14:39:03.718 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+14:39:07.003 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+14:39:07.008 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+14:39:18.111 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+14:39:18.116 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+14:39:29.436 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+14:39:29.440 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+14:39:40.559 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+14:39:40.563 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+14:39:43.225 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+14:59:30.735 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\grouping.xml
+
+14:59:33.702 [main] INFO  #logger{36} - **** Started TC002_LoginTest.... ****
+14:59:36.211 [main] INFO  #logger{36} - **** Finished TC_002_LoginTest *****
+17:24:40.686 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\grouping.xml
+
+17:25:44.465 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\grouping.xml
+
+17:25:48.711 [main] INFO  #logger{36} - **** Starting TC001_AccountRegistrationTest ****
+17:25:49.105 [main] INFO  #logger{36} -  Clicked MyAccount link 
+17:25:49.962 [main] INFO  #logger{36} -  Clicked Register link 
+17:25:49.965 [main] INFO  #logger{36} -  Providing Customer Details... 
+17:25:50.827 [main] INFO  #logger{36} -  Validating Expected Massage 
+17:25:51.872 [main] INFO  #logger{36} - **** Finished TC001_AccountRegistrationTest *****
+17:25:54.559 [main] INFO  #logger{36} - **** Started TC002_LoginTest.... ****
+17:25:57.089 [main] INFO  #logger{36} - **** Finished TC_002_LoginTest *****
+17:29:01.289 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\grouping.xml
+
+17:29:04.384 [main] INFO  #logger{36} - **** Starting TC001_AccountRegistrationTest ****
+17:29:04.750 [main] INFO  #logger{36} -  Clicked MyAccount link 
+17:29:05.577 [main] INFO  #logger{36} -  Clicked Register link 
+17:29:05.580 [main] INFO  #logger{36} -  Providing Customer Details... 
+17:29:06.420 [main] INFO  #logger{36} -  Validating Expected Massage 
+17:29:07.475 [main] INFO  #logger{36} - **** Finished TC001_AccountRegistrationTest *****
+17:29:09.999 [main] INFO  #logger{36} - **** Started TC002_LoginTest.... ****
+17:29:12.521 [main] INFO  #logger{36} - **** Finished TC_002_LoginTest *****
+17:35:35.503 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\grouping.xml
+
+17:35:38.534 [main] INFO  #logger{36} - **** Starting TC001_AccountRegistrationTest ****
+17:35:38.929 [main] INFO  #logger{36} -  Clicked MyAccount link 
+17:35:39.697 [main] INFO  #logger{36} -  Clicked Register link 
+17:35:39.699 [main] INFO  #logger{36} -  Providing Customer Details... 
+17:35:40.520 [main] INFO  #logger{36} -  Validating Expected Massage 
+17:35:41.520 [main] INFO  #logger{36} - **** Finished TC001_AccountRegistrationTest *****
+17:35:44.053 [main] INFO  #logger{36} - **** Started TC002_LoginTest.... ****
+17:35:46.565 [main] INFO  #logger{36} - **** Finished TC_002_LoginTest *****
+17:44:57.293 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\grouping.xml
+
+17:45:00.516 [main] INFO  #logger{36} - **** Starting TC001_AccountRegistrationTest ****
+17:45:00.707 [main] INFO  #logger{36} -  Clicked MyAccount link 
+17:45:01.523 [main] INFO  #logger{36} -  Clicked Register link 
+17:45:01.527 [main] INFO  #logger{36} -  Providing Customer Details... 
+17:45:02.361 [main] INFO  #logger{36} -  Validating Expected Massage 
+17:45:03.378 [main] INFO  #logger{36} - **** Finished TC001_AccountRegistrationTest *****
+17:45:05.919 [main] INFO  #logger{36} - **** Started TC002_LoginTest.... ****
+17:45:08.351 [main] INFO  #logger{36} - **** Finished TC_002_LoginTest *****
+17:48:47.753 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\grouping.xml
+
+17:48:50.853 [main] INFO  #logger{36} - **** Starting TC001_AccountRegistrationTest ****
+17:48:51.209 [main] INFO  #logger{36} -  Clicked MyAccount link 
+17:48:51.911 [main] INFO  #logger{36} -  Clicked Register link 
+17:48:51.915 [main] INFO  #logger{36} -  Providing Customer Details... 
+17:48:52.723 [main] INFO  #logger{36} -  Validating Expected Massage 
+17:48:53.794 [main] INFO  #logger{36} - **** Finished TC001_AccountRegistrationTest *****
+17:48:56.323 [main] INFO  #logger{36} - **** Started TC002_LoginTest.... ****
+17:48:58.757 [main] INFO  #logger{36} - **** Finished TC_002_LoginTest *****
+17:56:13.090 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\grouping.xml
+
+17:56:15.450 [main] INFO  #logger{36} - **** Starting TC001_AccountRegistrationTest ****
+17:56:15.563 [main] INFO  #logger{36} -  Clicked MyAccount link 
+17:56:16.164 [main] INFO  #logger{36} -  Clicked Register link 
+17:56:16.166 [main] INFO  #logger{36} -  Providing Customer Details... 
+17:56:16.766 [main] INFO  #logger{36} -  Validating Expected Massage 
+17:56:17.503 [main] INFO  #logger{36} - **** Finished TC001_AccountRegistrationTest *****
+17:56:19.490 [main] INFO  #logger{36} - **** Started TC002_LoginTest.... ****
+17:56:21.186 [main] INFO  #logger{36} - **** Finished TC_002_LoginTest *****
+17:59:36.380 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+17:59:39.653 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+17:59:41.791 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+17:59:41.799 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+17:59:52.532 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+17:59:52.537 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+18:00:03.493 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+18:00:03.494 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+18:00:14.491 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+18:00:14.514 [main] INFO  #logger{36} - ***** TC003 Test Started*******
+18:00:16.449 [main] INFO  #logger{36} - ***** TC003 Test Finished*******
+18:16:53.783 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\grouping.xml
+
+18:16:56.316 [main] INFO  #logger{36} - **** Starting TC001_AccountRegistrationTest ****
+18:16:56.517 [main] INFO  #logger{36} -  Clicked MyAccount link 
+18:16:57.082 [main] INFO  #logger{36} -  Clicked Register link 
+18:16:57.086 [main] INFO  #logger{36} -  Providing Customer Details... 
+18:16:57.633 [main] INFO  #logger{36} -  Validating Expected Massage 
+18:16:58.383 [main] INFO  #logger{36} - **** Finished TC001_AccountRegistrationTest *****
+18:17:00.283 [main] INFO  #logger{36} - **** Started TC002_LoginTest.... ****
+18:17:02.087 [main] INFO  #logger{36} - **** Finished TC_002_LoginTest *****
+18:38:06.405 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\grouping.xml
+
+18:38:17.837 [main] INFO  #logger{36} - **** Starting TC001_AccountRegistrationTest ****
+18:38:18.096 [main] INFO  #logger{36} -  Clicked MyAccount link 
+18:38:19.241 [main] INFO  #logger{36} -  Clicked Register link 
+18:38:19.261 [main] INFO  #logger{36} -  Providing Customer Details... 
+18:38:20.219 [main] INFO  #logger{36} -  Validating Expected Massage 
+18:38:21.511 [main] INFO  #logger{36} - **** Finished TC001_AccountRegistrationTest *****
+18:38:24.097 [main] INFO  #logger{36} - **** Started TC002_LoginTest.... ****
+18:38:26.811 [main] INFO  #logger{36} - **** Finished TC_002_LoginTest *****
+18:43:36.767 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\grouping.xml
+
+18:43:40.061 [main] INFO  #logger{36} - **** Starting TC001_AccountRegistrationTest ****
+18:43:40.417 [main] INFO  #logger{36} -  Clicked MyAccount link 
+18:43:41.166 [main] INFO  #logger{36} -  Clicked Register link 
+18:43:41.170 [main] INFO  #logger{36} -  Providing Customer Details... 
+18:43:42.008 [main] INFO  #logger{36} -  Validating Expected Massage 
+18:43:43.008 [main] INFO  #logger{36} - **** Finished TC001_AccountRegistrationTest *****
+18:43:45.521 [main] INFO  #logger{36} - **** Started TC002_LoginTest.... ****
+18:43:47.933 [main] INFO  #logger{36} - **** Finished TC_002_LoginTest *****
+18:55:24.716 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\grouping.xml
+
+18:55:27.860 [main] INFO  #logger{36} - **** Starting TC001_AccountRegistrationTest ****
+18:55:28.221 [main] INFO  #logger{36} -  Clicked MyAccount link 
+18:55:28.962 [main] INFO  #logger{36} -  Clicked Register link 
+18:55:28.965 [main] INFO  #logger{36} -  Providing Customer Details... 
+18:55:29.808 [main] INFO  #logger{36} -  Validating Expected Massage 
+18:55:30.802 [main] INFO  #logger{36} - **** Finished TC001_AccountRegistrationTest *****
+18:55:33.217 [main] INFO  #logger{36} - **** Started TC002_LoginTest.... ****
+18:55:35.436 [main] INFO  #logger{36} - **** Finished TC_002_LoginTest *****
+19:05:32.365 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\grouping.xml
+
+19:05:35.559 [main] INFO  #logger{36} - **** Starting TC001_AccountRegistrationTest ****
+19:05:35.932 [main] INFO  #logger{36} -  Clicked MyAccount link 
+19:05:36.673 [main] INFO  #logger{36} -  Clicked Register link 
+19:05:36.675 [main] INFO  #logger{36} -  Providing Customer Details... 
+19:05:37.540 [main] INFO  #logger{36} -  Validating Expected Massage 
+19:05:38.506 [main] INFO  #logger{36} - **** Finished TC001_AccountRegistrationTest *****
+19:05:41.044 [main] INFO  #logger{36} - **** Started TC002_LoginTest.... ****
+19:05:43.600 [main] INFO  #logger{36} - **** Finished TC_002_LoginTest *****
+19:09:35.822 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\grouping.xml
+
+19:09:39.072 [main] INFO  #logger{36} - **** Starting TC001_AccountRegistrationTest ****
+19:09:39.423 [main] INFO  #logger{36} -  Clicked MyAccount link 
+19:09:40.218 [main] INFO  #logger{36} -  Clicked Register link 
+19:09:40.222 [main] INFO  #logger{36} -  Providing Customer Details... 
+19:09:41.001 [main] INFO  #logger{36} -  Validating Expected Massage 
+19:09:41.989 [main] INFO  #logger{36} - **** Finished TC001_AccountRegistrationTest *****
+19:09:44.502 [main] INFO  #logger{36} - **** Started TC002_LoginTest.... ****
+19:09:46.780 [main] INFO  #logger{36} - **** Finished TC_002_LoginTest *****
+16:19:49.171 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\grouping.xml
+
+16:34:14.493 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\grouping.xml
+
+16:34:23.139 [main] INFO  #logger{36} - **** Starting TC001_AccountRegistrationTest ****
+16:34:39.077 [main] INFO  #logger{36} - **** Started TC002_LoginTest.... ****
+16:20:16.678 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\grouping.xml
+
+16:22:22.978 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\grouping.xml
+
+16:28:27.112 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\grouping.xml
+
+16:30:14.987 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\grouping.xml
+
+16:31:03.154 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:31:03.158 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+16:31:03.159 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:31:03.160 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:31:03.160 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:31:03.160 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:31:03.161 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:31:03.161 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:31:03.168 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+16:31:03.177 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+16:31:03.178 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:31:03.179 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+16:31:03.179 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:31:03.180 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:31:03.180 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:31:03.180 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:31:03.182 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:31:03.182 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:31:03.182 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:31:03.182 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:31:03.184 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:31:03.184 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:31:03.184 [main] INFO  #logger{36} - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
