@@ -409,3 +409,54 @@
 10:53:04.050 [main] INFO  #logger{36} -  Providing Customer Details... 
 10:53:05.935 [main] INFO  #logger{36} -  Validating Expected Massage 
 10:53:11.000 [main] INFO  #logger{36} - **** Finished TC001_AccountRegistrationTest *****
+17:25:24.541 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+17:25:29.920 [main] INFO  #logger{36} - **** Starting TC001_AccountRegistrationTest ****
+17:25:30.153 [main] INFO  #logger{36} -  Clicked MyAccount link 
+17:25:30.668 [main] INFO  #logger{36} -  Clicked Register link 
+17:25:30.671 [main] INFO  #logger{36} -  Providing Customer Details... 
+17:25:32.572 [main] INFO  #logger{36} -  Validating Expected Massage 
+17:25:37.636 [main] INFO  #logger{36} - **** Finished TC001_AccountRegistrationTest *****
+17:28:16.744 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+17:28:21.280 [main] INFO  #logger{36} - **** Starting TC001_AccountRegistrationTest ****
+17:28:21.730 [main] INFO  #logger{36} -  Clicked MyAccount link 
+17:28:22.211 [main] INFO  #logger{36} -  Clicked Register link 
+17:28:22.215 [main] INFO  #logger{36} -  Providing Customer Details... 
+17:28:24.579 [main] INFO  #logger{36} -  Validating Expected Massage 
+17:28:29.666 [main] INFO  #logger{36} - **** Finished TC001_AccountRegistrationTest *****
+17:37:31.800 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+17:37:36.288 [main] INFO  #logger{36} - **** Starting TC001_AccountRegistrationTest ****
+17:37:36.759 [main] INFO  #logger{36} -  Clicked MyAccount link 
+17:37:37.263 [main] INFO  #logger{36} -  Clicked Register link 
+17:37:37.265 [main] INFO  #logger{36} -  Providing Customer Details... 
+17:37:39.493 [main] INFO  #logger{36} -  Validating Expected Massage 
+17:37:44.578 [main] INFO  #logger{36} - **** Finished TC001_AccountRegistrationTest *****
+17:41:10.111 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+17:41:13.813 [main] INFO  #logger{36} - **** Starting TC001_AccountRegistrationTest ****
+17:41:14.120 [main] INFO  #logger{36} -  Clicked MyAccount link 
+17:41:14.651 [main] INFO  #logger{36} -  Clicked Register link 
+17:41:14.656 [main] INFO  #logger{36} -  Providing Customer Details... 
+17:41:17.097 [main] INFO  #logger{36} -  Validating Expected Massage 
+17:41:22.196 [main] INFO  #logger{36} - **** Finished TC001_AccountRegistrationTest *****
+17:46:11.655 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+17:46:57.290 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+17:47:48.545 [main] INFO  #logger{36} - [TestNG] Running:
+  C:\Users\umesh\eclipse-workspace\OpencartV2025\master.xml
+
+17:47:52.238 [main] INFO  #logger{36} - **** Starting TC001_AccountRegistrationTest ****
+17:47:52.736 [main] INFO  #logger{36} -  Clicked MyAccount link 
+17:47:53.337 [main] INFO  #logger{36} -  Clicked Register link 
+17:47:53.342 [main] INFO  #logger{36} -  Providing Customer Details... 
+17:47:55.271 [main] INFO  #logger{36} -  Validating Expected Massage 
+17:48:00.350 [main] INFO  #logger{36} - **** Finished TC001_AccountRegistrationTest *****
